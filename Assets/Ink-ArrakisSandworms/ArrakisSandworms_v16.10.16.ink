@@ -1,15 +1,18 @@
 //
+
+--> ArrakisSandworms
+
 === ArrakisSandworms ===
-<i>"Arrakis Sandworms"</i>
+ARRAKIS SANDWORMS
 + [Begin] -> ArrakisSandworms.raid_basic
 
 = raid_basic
-<b>“Invitation to The Arrakis Sandworms Raid”</b>
+An Invitation // An Invitation to The Arrakis Sandworms Raid”</b>
 Recently an expedition party in the southeast has disturbed a previously unknown colony of Arrakis Sandworms. 
 + [...] -> raid_basic_continue
 
 = raid_basic_continue
-Naturalists have determined that these are not the same worms from the Arrakis Wasteland, but they are still plenty big and a potential threat to the entire region. Storm Crown has declared an emergency, and is calling upon members of the “League of Heroes.”
+Naturalists have determined that these are not the same worms from the Arrakis Wasteland. They are in fact a new species resulting from an evolutionary process when this colony became physically separated . They are still plenty big and a potential threat to the entire region. Storm Crown has declared an emergency, and is calling upon members of the “League of Heroes.”
 +[...]
 - The battle will demand a force of epic proportions including the use of siege engines to drive the worms back down. Many parties of heroes from across multiple factions will be needed to win the day.
 + [...]
