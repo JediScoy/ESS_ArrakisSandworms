@@ -9,20 +9,20 @@ body {
 
 h1 {
     text-align: center;
-    font-weight: lighter;
+    font-size: 1.2em;
 }
 
 .container {
     display: block;
     max-width: 480px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0.5em;
 }
 
 p, a {
     color: #262626; /* 15% Lighter than Black */
-    line-height: 1.7em;
-    font-size: 18pt;
+    line-height: 1.4em;
+    font-size: 1.2em;
 }
 a {
 	color: #DC143C;
